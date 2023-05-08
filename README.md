@@ -1,1 +1,1 @@
-"" 
+This tool backs up DontPad text files into a local folder
